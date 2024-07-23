@@ -1,0 +1,3 @@
+[submodule "SharpOSC"]
+	path = SharpOSC
+	url = https://github.com/ValdemarOrn/SharpOSC.git
